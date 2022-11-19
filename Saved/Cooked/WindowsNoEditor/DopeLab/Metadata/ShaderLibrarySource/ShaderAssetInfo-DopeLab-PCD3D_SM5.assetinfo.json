@@ -1,0 +1,847 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70184CFFFB116A6DED3282DDC17BBBB75B712D41",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3E88D05642439823638181EBE6EAD4401D3AFD46",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "2266C9E402E8BFB54E7D599DF2BE9C8C130D003F",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "11528503F2FADD1013D8803561433D655227459B",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "17AE3D86A09501D585721FA2DEE9909ECFE45EF3",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "390CDBF1087A3BD7F6C4AC756A31D2EFF50EB629",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EFA0ABFC95AAB7148BE65BAC8E4D403FA1C0640F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA0F6AC7299BB7FEB5AA62C8CF6E1B66AF8EC6B6",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A714AEA3AB59E5E1063F5B045D9645674EC299E9",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4131408FCDC8DBD3F5D0F64AD1F0D9AC3ED13F71",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDD9ADA24C2458F03EE9B1332FD26BB86BBD80AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F50CB4809F30B28444E9A8162646CD4396B7E073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE9EFACC4C3FB18F9DF805F9146228150B7FFD2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "A3425B7B6BE14F897DA870ADD0BA4C022D47C073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F5414245F4D31163D035B55938C5737CCEBB355E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "756823B80E02934AEFFBFFB5B3C64ECDEFEC5CF6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "D1CDE5662FED22405E7A4E13F4C26CCBBD37DEB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D004EBC46FA930DC5EEB476F7B9347C43CA9F1B",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "78B65C37765E95A0B8DBA0C072BEE3403C871CDA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8D4E9DEB8E73CD3762EB1B60D28353B51F2E41",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
+			"Assets": [
+				"/Game/Prefabs/Characters/FirstPerson/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
+			"Assets": [
+				"/Game/GeometryBase/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "A62DCEC03656C6A9B4403E55321E25522C1FF626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
+			"Assets": [
+				"/Game/Prefabs/Characters/FirstPerson/Meshes/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AC14DCC3803F11E0F4C0018B93E506DAB424B334",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "AC50A361793F211DA25EF5F9C6DCE6EBCBF32171",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "FBE6507D74A90CAF1D9703878E705BBEE6857E3C",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "12A4CD629A96EC736B1DCD9D15D13675DC93FDE4",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "7DCD77054A53363F7D91F653DCC448DFB99D8FE2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "A165473EE0B6F49CBE44CF9DCD8C65DD55ED9812",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "4A8961E80B6C624B741B55D448A360A5FD160306",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/T_Table_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "A2025954E434F2577A0089394CF69554C92D2A74",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/MM_Modern_Bed_pillows",
+				"/Game/FreeFurniturePack/Materials/MM_Modern_Sofa"
+			]
+		},
+		{
+			"ShaderMapHash": "3BE9BC415CB1F22B4FB6CF740D697BA3FE6E3430",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Modern_Bed_2"
+			]
+		},
+		{
+			"ShaderMapHash": "536AF3013EF2714A886D0069410113C1B5C301E4",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Office_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "A4BC21BDB19D9A2A7ACA48D6578362C6FF2248BE",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Picture_frame"
+			]
+		},
+		{
+			"ShaderMapHash": "E24F184213F4B650D8CC9D5EE025192BF4EF5465",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Toilet"
+			]
+		},
+		{
+			"ShaderMapHash": "3FD4D87C9A0D30B4D608CF3127D9E74B3C08A9EB",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Picture"
+			]
+		},
+		{
+			"ShaderMapHash": "7D9C30F87ECE64333851159D1B3D931672738BC2",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/MM_Modern_Bed"
+			]
+		},
+		{
+			"ShaderMapHash": "FCD6BA96FCD3120DA98D3BFE73DA3E86EADD7D40",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Modern_Table_bottom"
+			]
+		},
+		{
+			"ShaderMapHash": "76CFCC77D3B60EFC9BF65511DDABCDD6312A0A27",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Modern_Table_top"
+			]
+		},
+		{
+			"ShaderMapHash": "311BB7B90BC7C217C08D7B6262582BE9477A0F40",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Bed_Lamp_1",
+				"/Game/FreeFurniturePack/Materials/M_Bed_Lamp_2"
+			]
+		},
+		{
+			"ShaderMapHash": "5F2485B89C09065C72AD08F63A82154D02D14A71",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_TV"
+			]
+		},
+		{
+			"ShaderMapHash": "CFD53CC2234314F3010AC3628A3746A86C4ADE16",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Bed_drawer_metall",
+				"/Game/FreeFurniturePack/Materials/M_Cupboard_Metall"
+			]
+		},
+		{
+			"ShaderMapHash": "7AE646808A5F9A287B0D108F51F5D8D41BF44434",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Bed_drawer_plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "ADDF5B7C67550C527508A80E0EEDD7432F3D1AD6",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Bathtub"
+			]
+		},
+		{
+			"ShaderMapHash": "A33DC55D4D52500F7CE0CECD0541C45EAA463B31",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Coffee_Table"
+			]
+		},
+		{
+			"ShaderMapHash": "1A0B9C9ED94888457048C602A50FA2390C1C2CD2",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/MM_Armchair"
+			]
+		},
+		{
+			"ShaderMapHash": "8A55A27292BA89B98F04CF2C7547A81A6D7FBBF9",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Elegant_chair"
+			]
+		},
+		{
+			"ShaderMapHash": "7919049C70AA5FAFC80F652EDE9E4C09869C206E",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/MM_Tables_and_Chairs"
+			]
+		},
+		{
+			"ShaderMapHash": "6F399FF2C4CC5B001FEA19F670A33E1D378D4502",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Metall"
+			]
+		},
+		{
+			"ShaderMapHash": "18C4A32467CC70A924D055A4C6D0167E7BB7E854",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Bed_Lamp_3"
+			]
+		},
+		{
+			"ShaderMapHash": "855FCFA29E30F94A972D931647522F28A4E66D22",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Bed_Lamp_Glowing_Part"
+			]
+		},
+		{
+			"ShaderMapHash": "46910601D2BAA697C8B1FBCA502395A1CF463120",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskedReaperTorso"
+			]
+		},
+		{
+			"ShaderMapHash": "887E79856C3705E4FE5CDFB2DCDE94B30F18B717",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskedReaperTorso"
+			]
+		},
+		{
+			"ShaderMapHash": "55C6E0B4AB6D224FB1308F2A88E1931437751485",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperArmorRuins2"
+			]
+		},
+		{
+			"ShaderMapHash": "54C124911A06ADA92D07733985834F04C807EA88",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperArmorRuins2"
+			]
+		},
+		{
+			"ShaderMapHash": "637FE7B2CFA9A736962DAC545B480E74FD61DA01",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperBack_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B31BB83DFE231D3FB657D9D6E015BD949B865A88",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperBack_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6425422353503759172B1519711762FCB4AD2011",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperChainmail"
+			]
+		},
+		{
+			"ShaderMapHash": "AFB788FFAD49C6D3A900F8F183A977F0B58321F5",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperChainmail"
+			]
+		},
+		{
+			"ShaderMapHash": "FC14C37A98BCA16C9843A837BDBE007F77D21C5A",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperer"
+			]
+		},
+		{
+			"ShaderMapHash": "C7F69C6CCB31B838753D320206FA8D520048F974",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/M_Sevarog_MaskReaperer"
+			]
+		},
+		{
+			"ShaderMapHash": "64F4E02008D80657CF050F86C4849293B3E87FE7",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Back_Chronos"
+			]
+		},
+		{
+			"ShaderMapHash": "5F774920C92F9766AE5C248D02EEBC34BAE2CCC0",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Back_Chronos"
+			]
+		},
+		{
+			"ShaderMapHash": "6F32E1FB3C0032467470BF4D627A4D7C8409F45F",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Chainmail_Chonos"
+			]
+		},
+		{
+			"ShaderMapHash": "9A9EA06E1882E015A4C59D2014B8B27546A13EFF",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Chainmail_Chonos"
+			]
+		},
+		{
+			"ShaderMapHash": "9ED0F83CA8AC08C26827CA61C553C2038AE1CDD7",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Hammer_Chonos"
+			]
+		},
+		{
+			"ShaderMapHash": "E494009522E74072805D00F7FD205877898B1031",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Hammer_Chonos"
+			]
+		},
+		{
+			"ShaderMapHash": "5372ECBE3FF6D0D96870A982639D65E6EDAA60F1",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Torso_Chonos"
+			]
+		},
+		{
+			"ShaderMapHash": "7F1EB32709EE40C622DC89A416668253F8BBB26B",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_Torso_Chonos"
+			]
+		},
+		{
+			"ShaderMapHash": "2823E5D99970DCC02B9B006549A0511E3CD3914A",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Armour_Red2"
+			]
+		},
+		{
+			"ShaderMapHash": "8F7C493BE24AF070B2EB66AE54BDDC8AA521832B",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Armour_Red2"
+			]
+		},
+		{
+			"ShaderMapHash": "58A492AAA1AB375A3348F60A3C59F5524D964F01",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Back_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "779636C8585497935E1BC452DF599F05FA48B70A",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Back_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "309DD0E9EBA046E025D60FF535AF60378099E682",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Chainmail_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "D6B64501EB3776B0DB0820A1C04EC1CE646BA9E6",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Chainmail_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "E9C2D2C85D961B9821AE3A122AC316A69B6C5557",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Hammer_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "8F1261AF6B08A20CE8088D7CBF367C6B6F461F62",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Hammer_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "2C237BEDF9E78C79C769DC344EF2035D46731BBE",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Maps/BackGroundAssets/HDRSky"
+			]
+		},
+		{
+			"ShaderMapHash": "86A6088BEFAD9C1A9BA029AC06D018F8A47930A4",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Torso_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "3E893A4915BB54F29FF68E86186C2607D9EDA38A",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Red/Materials/M_Sevarog_Torso_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "893F8F1F6C760007BF51EF77408B7D971FA8B7CB",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Maps/BackGroundAssets/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "ED9122B18A274B3C7CAB539AE1EC20F9FA94A36D",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_invis"
+			]
+		},
+		{
+			"ShaderMapHash": "A823F84F0ED919DFC773A3C81F069BDEC97BEFF4",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_ArmourRuins"
+			]
+		},
+		{
+			"ShaderMapHash": "FB53C7E2175CA22C84B359BC14668659C18035E1",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_ArmourRuins"
+			]
+		},
+		{
+			"ShaderMapHash": "D66DBACEA1623EE2E63AD50C2692861A0403712B",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Back_01"
+			]
+		},
+		{
+			"ShaderMapHash": "0260662AA5FAC606AF73FF8FD89E3115262E7EA0",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Back_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1B239086D1EB2ED1CACE4B956C8EBC337E2FDDD1",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Chainmail"
+			]
+		},
+		{
+			"ShaderMapHash": "27B0BCB3EF8632D56F0DBD4679646F7F5DC894CD",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Chainmail"
+			]
+		},
+		{
+			"ShaderMapHash": "04FD726243589CD98F3715CF967D58125A3074BE",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Hammer_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4076C829EC3CCE1907D6F45F333A6014614424A8",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Hammer_01"
+			]
+		},
+		{
+			"ShaderMapHash": "14844AFEEB692AF1CD7CB924AB881C01E766B1A9",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "5436971FA496DDBBA16C43BAD3D1878E02279B8D",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "36B9EF5886629F900B7A084594A267B53631216F",
+			"Assets": [
+				"/Game/Materials/M_Wardrove"
+			]
+		},
+		{
+			"ShaderMapHash": "85DE0F282DAD74D1019A599229E10A51FD8083EF",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Classic_chair"
+			]
+		},
+		{
+			"ShaderMapHash": "DE07349E4BE4A3A618986267E774A4F82551FD62",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_ArmourR_Chronos3"
+			]
+		},
+		{
+			"ShaderMapHash": "D02922B295E463B6035A2F3D16ECDDB09A1EC502",
+			"Assets": [
+				"/Game/Prefabs/Characters/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1/Sevarog_Chronos/Materials/M_Sevarog_ArmourR_Chronos3"
+			]
+		},
+		{
+			"ShaderMapHash": "DA023BC987C5CFBCA824BE3848EC6D4E9946854B",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Classic_Commode"
+			]
+		},
+		{
+			"ShaderMapHash": "69C4A48BC5B2F71E54E03597BABBC7635C775A65",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Classic_Cupboard"
+			]
+		},
+		{
+			"ShaderMapHash": "FB0D530FF287A5EBB8039A54E838E5E240FC0251",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Classic_Leather_armchair",
+				"/Game/FreeFurniturePack/Materials/M_Classic_Leather_sofa",
+				"/Game/FreeFurniturePack/Materials/M_Classic_Leather_sofa_2"
+			]
+		},
+		{
+			"ShaderMapHash": "B5536DB160E682915883E8C4A7026C149FADDEE6",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Classic_Picture"
+			]
+		},
+		{
+			"ShaderMapHash": "4C6224D22F50E58E9D337B06A038EB137039CFA6",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Art_2"
+			]
+		},
+		{
+			"ShaderMapHash": "50B38DCFF45D0DDFF6E42AFD7390B7C86469B3F3",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Round_table"
+			]
+		},
+		{
+			"ShaderMapHash": "FC7D37AF8AA577A563F7FD05B98E989367853987",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Classic_table"
+			]
+		},
+		{
+			"ShaderMapHash": "66769ECC50B1B049DFC3AD14ADFB2D1047E828C4",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Commode",
+				"/Game/FreeFurniturePack/Materials/M_Modern_Cupboard"
+			]
+		},
+		{
+			"ShaderMapHash": "2112D5D2B1575672DD196F6B31D3CA3032ECB59D",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Military_Bed_Matress"
+			]
+		},
+		{
+			"ShaderMapHash": "A9C95D9E91BF74796E56A8EF99282F2A8BF305F1",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Military_Bed_Matress_with_Blanket"
+			]
+		},
+		{
+			"ShaderMapHash": "55A05D73B8BD58DB697884C837708DF600B0E2E1",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Military_Bed"
+			]
+		},
+		{
+			"ShaderMapHash": "CF71F6CF0823B1740065D4896E76E348B1196509",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "72602B95593F40C6877A7BFD6255FCA2E360D250",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Old_Chair",
+				"/Game/FreeFurniturePack/Materials/M_Old_Table"
+			]
+		},
+		{
+			"ShaderMapHash": "711A4DDDA79DE650EAB35FC0648E282F54E3181E",
+			"Assets": [
+				"/Game/FreeFurniturePack/Materials/M_Military_Bed_Grid"
+			]
+		}
+	]
+}
